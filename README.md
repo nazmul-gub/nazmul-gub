@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
 
 <p align="center">
-  <strong>AI & Data Science Student • ASP.NET Developer • Builder</strong>
+  <strong>Aspiring AI-Powered Software Developer | Exploring the Intersection of Software Engineering & Artificial Intelligence • ASP.NET Core</strong>
 </p>
 
 <p align="center">
@@ -29,80 +29,117 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nazmul Hasan**, a university student focused on building a strong foundation in **AI, Data Science, and software development**.
+I'm **Nazmul Hasan**, a university student and aspiring **Full-Stack Developer** focused on building modern, practical web applications.
 
-Currently, I'm exploring the intersection of:
+My main development focus is:
 
-* 🤖 Artificial Intelligence & Data Science
-* 💻 ASP.NET Core & Backend Development
-* 🗄️ PostgreSQL & Database Systems
-* 🧠 Programming & Problem Solving
-* 🚀 Building practical projects
+* 💻 **C# & ASP.NET Core**
+* 🔌 **REST APIs & Backend Development**
+* 🗄️ **PostgreSQL & SQL**
+* 🌐 **HTML, CSS, Tailwind CSS & JavaScript**
+* 🎨 **Responsive UI & Frontend Fundamentals**
+* 🔧 **Git & GitHub**
 
-I believe the best way to learn technology is to **build, break, debug, and build again.**
+Alongside web development, I'm studying **AI & Data Science** academically and exploring how intelligent systems can be integrated into real-world software.
+
+> **Build practical things. Learn by shipping. Improve every project.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Backend & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-### Backend & Frameworks
+`C#` `ASP.NET Core` `REST APIs` `OOP` `Backend Development`
+
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" />
 </p>
 
-### Data & Databases
+`HTML5` `CSS3` `JavaScript` `Responsive Design` `Tailwind CSS`
+
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### Web
+`PostgreSQL` `SQL` `Database Design`
+
+### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-### Tools
+`Git` `GitHub` `VS Code` `Figma`
+
+### 🤖 AI & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+`Python` `NumPy` `Pandas` `Matplotlib` `AI Fundamentals`
 
 ---
 
 ## 🚀 Current Focus
 
 ```text
-🤖 AI & Data Science
-        ↓
-🐍 Python • NumPy • Pandas • Matplotlib
-        ↓
-💻 C# • ASP.NET Core • Web APIs
-        ↓
+💻 Full-Stack Web Development
+          ↓
+⚙️ C# • ASP.NET Core • REST APIs
+          ↓
 🗄️ PostgreSQL • SQL
-        ↓
-🚀 Real-world Projects
+          ↓
+🌐 HTML • CSS • JavaScript
+          ↓
+🚀 Building Real-World Projects
 ```
 
-🌱 Currently learning **ASP.NET Core and backend development**
+Currently focused on becoming a stronger **ASP.NET Core / Full-Stack Developer** by building practical applications and improving backend, database, and frontend skills.
 
-🎓 Studying **AI & Data Science**
+🎓 At the same time, I'm studying **AI & Data Science** as part of my university degree.
 
-🔨 Building projects to turn concepts into practical skills
+---
+
+## ⭐ Featured Projects
+
+### 🐦 TweetX
+
+A Twitter/X-style social media platform built to practice full-stack web development and backend architecture.
+
+**Focus:** Authentication • Backend • APIs • Database • UI
+
+**Tech:** `C#` `ASP.NET` `HTML` `CSS` `JavaScript`
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/TwitterClone)
+
+---
+
+### 🚗 Smart Park
+
+A smart parking management system designed to explore how software can solve real-world parking and management problems.
+
+**Focus:** Backend • Database • Application Logic
+
+**Tech:** `C#` `ASP.NET` `PostgreSQL`
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/smart-car-parking-system)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-gub&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-gub&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-gub&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
 </p>
 
@@ -128,38 +165,15 @@ I believe the best way to learn technology is to **build, break, debug, and buil
 
 ---
 
-## ⭐ Featured Projects
-
-### 🐦 TweetX
-
-A Twitter/X-style social media platform built while exploring full-stack development.
-
-**Tech:** `C#` `ASP.NET` `HTML` `CSS` `JavaScript`
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/TwitterClone)
-
----
-
-### 🚗 Smart Park
-
-A smart parking management project focused on solving real-world parking problems through software.
-
-**Tech:** `C#` `ASP.NET` `PostgreSQL`
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/smart-car-parking-system)
-
----
-
 ## 🧠 What I'm Learning
 
 | Area                 | Focus                                 |
 | -------------------- | ------------------------------------- |
-| 🤖 AI & Data Science | Python, Data Analysis, ML Foundations |
-| 💻 Backend           | C#, ASP.NET Core, Web APIs            |
+| 💻 Web Development   | ASP.NET Core, REST APIs, Backend      |
+| 🌐 Frontend          | HTML, CSS, JavaScript, Responsive UI  |
 | 🗄️ Databases        | PostgreSQL, SQL                       |
-| 🌐 Web               | HTML, CSS, JavaScript                 |
-| 🧠 Problem Solving   | Algorithms & Programming              |
-| 🔧 Tools             | Git, GitHub, Figma                    |
+| 🔧 Development       | Git, GitHub, Clean Code               |
+| 🤖 AI & Data Science | Python, Data Analysis, ML Foundations |
 
 ---
 
@@ -167,7 +181,7 @@ A smart parking management project focused on solving real-world parking problem
 
 🎓 **BSc in Artificial Intelligence / AI & Data Science**
 
-Currently building my foundation in:
+Building a strong academic foundation in:
 
 `Programming` • `Data Science` • `Statistics` • `Mathematics` • `Artificial Intelligence`
 
@@ -191,7 +205,7 @@ Currently building my foundation in:
 
 ## ⚡ Fun Fact
 
-> I switched between CP, web development, ASP.NET, AI, and Data Science so many times that my real skill might be **building roadmaps faster than most people finish one.** 😄
+> I explored CP, AI, Data Science, and web development before realizing that I enjoy **building things people can actually use.** 🚀
 
 ---
 
