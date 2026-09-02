@@ -43,6 +43,40 @@ I believe the best way to learn technology is to **build, break, debug, and buil
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+### Data & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
 ## 🚀 Current Focus
 
 ```text
@@ -94,14 +128,6 @@ I believe the best way to learn technology is to **build, break, debug, and buil
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmul-gub&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
-</p>
-
----
-
 ## ⭐ Featured Projects
 
 ### 🐦 TweetX
@@ -110,7 +136,7 @@ A Twitter/X-style social media platform built while exploring full-stack develop
 
 **Tech:** `C#` `ASP.NET` `HTML` `CSS` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/TwitterClone)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/TwitterClone)
 
 ---
 
@@ -120,27 +146,7 @@ A smart parking management project focused on solving real-world parking problem
 
 **Tech:** `C#` `ASP.NET` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/smart-car-parking-system)
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-
-</p>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/smart-car-parking-system)
 
 ---
 
