@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Nazmul</h1>
 
 <p align="center">
-  <strong>Aspiring AI-Powered Software Developer | Exploring the Intersection of Software Engineering & Artificial Intelligence • ASP.NET Core</strong>
+  <strong>Aspiring AI-Powered Backend Developer | Exploring the Intersection of Backend Engineering & Artificial Intelligence • ASP.NET Core</strong>
 </p>
 
 <p align="center">
