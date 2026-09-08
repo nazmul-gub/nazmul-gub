@@ -157,13 +157,6 @@ A smart parking management system designed to explore how software can solve rea
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul-gub&theme=github-compact&hide_border=true&area=true" width="95%"/>
-</p>
-
----
 
 ## 🧠 What I'm Learning
 
