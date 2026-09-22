@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
 
 <p align="center">
-  <strong>Aspiring AI-Powered Backend Developer | Exploring the Intersection of Backend Engineering & Artificial Intelligence • ASP.NET Core</strong>
+  <strong>Aspiring Analyst Professional | Turning Data into Insights with Excel, SQL, Power BI & Python</strong>
 </p>
 
 <p align="center">
@@ -29,40 +29,39 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nazmul Hasan**, a university student and aspiring **Full-Stack Developer** focused on building modern, practical web applications.
+I'm **Nazmul Hasan**, a university student currently building my skills toward a career in **Data Analytics**.
 
-My main development focus is:
+I'm interested in understanding data, finding patterns, creating meaningful visualizations, and turning raw information into insights that can support better decisions.
 
-* 💻 **C# & ASP.NET Core**
-* 🔌 **REST APIs & Backend Development**
-* 🗄️ **PostgreSQL & SQL**
-* 🌐 **HTML, CSS, Tailwind CSS & JavaScript**
-* 🎨 **Responsive UI & Frontend Fundamentals**
-* 🔧 **Git & GitHub**
+My current focus is:
 
-Alongside web development, I'm studying **AI & Data Science** academically and exploring how intelligent systems can be integrated into real-world software.
+* 📊 **Microsoft Excel**
+* 🗄️ **SQL & PostgreSQL**
+* 📈 **Power BI**
+* 🐍 **Python**
+* 🔢 **NumPy**
+* 🐼 **Pandas**
+* 📉 **Matplotlib**
+* 🧹 **Data Cleaning & Exploration**
+* 📊 **Data Visualization**
 
-> **Build practical things. Learn by shipping. Improve every project.**
+> **Learn one skill at a time. Practice with real data. Turn data into decisions.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-### 💻 Backend & Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-
-`C#` `ASP.NET Core` `REST APIs` `OOP` `Backend Development`
-
-### 🌐 Frontend Development
+### 📊 Data Analysis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`HTML5` `CSS3` `JavaScript` `Responsive Design` `Tailwind CSS`
+`Excel` `SQL` `PostgreSQL` `Power BI` `Python`
+
+### 🐍 Python Data Stack
+
+`NumPy` `Pandas` `Matplotlib`
 
 ### 🗄️ Database
 
@@ -70,69 +69,67 @@ Alongside web development, I'm studying **AI & Data Science** academically and e
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-`PostgreSQL` `SQL` `Database Design`
+`PostgreSQL` `SQL` `Joins` `Subqueries` `Data Filtering` `Aggregation`
 
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-`Git` `GitHub` `VS Code` `Figma`
-
-### 🤖 AI & Data Science
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-`Python` `NumPy` `Pandas` `Matplotlib` `AI Fundamentals`
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
 ```text
-💻 Full-Stack Web Development
-          ↓
-⚙️ C# • ASP.NET Core • REST APIs
-          ↓
-🗄️ PostgreSQL • SQL
-          ↓
-🌐 HTML • CSS • JavaScript
-          ↓
-🚀 Building Real-World Projects
+📊 Excel
+   ↓
+🗄️ SQL • PostgreSQL
+   ↓
+📈 Power BI
+   ↓
+🐍 Python • NumPy • Pandas
+   ↓
+📉 Matplotlib • Data Visualization
+   ↓
+🧹 Data Cleaning • EDA • Insights
+   ↓
+🚀 Building Data Analytics Projects
 ```
 
-Currently focused on becoming a stronger **ASP.NET Core / Full-Stack Developer** by building practical applications and improving backend, database, and frontend skills.
+Currently, I'm focused on strengthening my fundamentals in **data cleaning, analysis, visualization, SQL, and business-oriented problem solving**.
 
-🎓 At the same time, I'm studying **AI & Data Science** as part of my university degree.
-
----
-
-## ⭐ Featured Projects
-
-### 🐦 TweetX
-
-A Twitter/X-style social media platform built to practice full-stack web development and backend architecture.
-
-**Focus:** Authentication • Backend • APIs • Database • UI
-
-**Tech:** `C#` `ASP.NET` `HTML` `CSS` `JavaScript`
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/TwitterClone)
+My goal is to move from learning individual tools to using them together on real-world datasets.
 
 ---
 
-### 🚗 Smart Park
+## 📚 What I'm Learning
 
-A smart parking management system designed to explore how software can solve real-world parking and management problems.
+| Area              | Current Focus                                  |
+| ----------------- | ---------------------------------------------- |
+| 📊 Excel          | Formulas, data cleaning, Power Query, analysis |
+| 🗄️ SQL           | Queries, joins, subqueries, aggregations       |
+| 🐘 PostgreSQL     | Database querying and analysis                 |
+| 📈 Power BI       | Data modeling, dashboards, visualization       |
+| 🐍 Python         | Data analysis and automation                   |
+| 🔢 NumPy          | Numerical computing                            |
+| 🐼 Pandas         | Data manipulation and analysis                 |
+| 📉 Matplotlib     | Data visualization                             |
+| 🧹 Data Analytics | Cleaning, EDA, patterns & insights             |
 
-**Focus:** Backend • Database • Application Logic
+---
 
-**Tech:** `C#` `ASP.NET` `PostgreSQL`
+## 🚀 Current Learning Journey
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat\&logo=github)](https://github.com/nazmul-gub/smart-car-parking-system)
+I'm currently building my foundation in **Data Analytics** and working toward becoming job-ready.
+
+Right now, I'm prioritizing:
+
+**Excel → SQL → Power BI → Python → Real-World Projects**
+
+I'm intentionally focusing on one path instead of jumping between multiple technologies, so I can build deeper practical skills and a stronger portfolio.
 
 ---
 
@@ -152,31 +149,19 @@ A smart parking management system designed to explore how software can solve rea
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nazmul-gub&theme=transparent&hide_border=true" width="70%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-gub&utcOffset=6&theme=github" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-gub&theme=github" width="48%"/>
 </p>
 
 ---
 
-
-## 🧠 What I'm Learning
-
-| Area                 | Focus                                 |
-| -------------------- | ------------------------------------- |
-| 💻 Web Development   | ASP.NET Core, REST APIs, Backend      |
-| 🌐 Frontend          | HTML, CSS, JavaScript, Responsive UI  |
-| 🗄️ Databases        | PostgreSQL, SQL                       |
-| 🔧 Development       | Git, GitHub, Clean Code               |
-| 🤖 AI & Data Science | Python, Data Analysis, ML Foundations |
-
----
-
-## 📚 Education
+## 🎓 Education
 
 🎓 **BSc in Artificial Intelligence / AI & Data Science**
 
-Building a strong academic foundation in:
+Building an academic foundation in:
 
-`Programming` • `Data Science` • `Statistics` • `Mathematics` • `Artificial Intelligence`
+`Programming` • `Statistics` • `Mathematics` • `Data Science` • `Artificial Intelligence`
 
 ---
 
@@ -198,10 +183,10 @@ Building a strong academic foundation in:
 
 ## ⚡ Fun Fact
 
-> I explored CP, AI, Data Science, and web development before realizing that I enjoy **building things people can actually use.** 🚀
+> I spent a lot of time exploring different paths in tech. Now I'm focusing on one thing: **learning how to turn raw data into useful insights.** 📊
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:66bb6a&height=100&section=footer"/>
 </p>
