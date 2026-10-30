@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
 
 <p align="center">
-  <strong>Aspiring Analyst Professional | Turning Data into Insights with Excel, SQL, Power BI & Python</strong>
+  <strong>I turn messy business data into clear dashboards and decisions | Excel · SQL · Python · Pandas · BI & Looker Studio</strong>
 </p>
 
 <p align="center">
